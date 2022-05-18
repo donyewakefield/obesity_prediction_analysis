@@ -1,5 +1,8 @@
 # Obesity Prediction Analysis
 
+### link to the data
+https://www.kaggle.com/datasets/spittman1248/cdc-data-nutrition-physical-activity-obesity
+
 ## Languages and Tools:
 
 ## Implementations:
